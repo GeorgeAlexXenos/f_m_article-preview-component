@@ -120,13 +120,13 @@ p {
     color: var(--grayishBlue);
   }
   .social {
-    min-width: 400px;
+    min-width: 390px;
     display: flex;
     align-items: center;
     position: absolute;
     padding: 1rem 2.5rem;
     background-color: var(--veryDarkGrayishBlue);
-    right: -5px;
+    right: 0;
     bottom: 0;
     border-radius: 0 0 1rem 1rem;
     color: var(--lightGrayishBlue);
