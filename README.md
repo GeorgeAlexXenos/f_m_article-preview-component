@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- [solution URL here](https://your-solution-url.com)
-- [live site URL here](https://github.com/GeorgeAlexXenos/f_m_article-preview-component)
+- [solution URL here](https://github.com/GeorgeAlexXenos/f_m_article-preview-component)
+- [live site URL here](https://georgealexxenos.github.io/f_m_article-preview-component/)
 
 ## My process
 
